@@ -1,4 +1,4 @@
 jquery.jpgvideo
 ===============
 
-Jquery plugin to view a serial of jpgs like a video in desktop, tablet or mobile.
+Jquery plugin to view a series of jpegs like a video in desktop, tablet or mobile.
